@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@babylonjs/core": "^8.11.0",
+    "@babylonjs/loaders": "^8.11.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
